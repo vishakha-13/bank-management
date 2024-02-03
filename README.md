@@ -13,7 +13,6 @@ Visual Studio Code or any preferred text editor
 
 MySQL
 
-
 Python MySQL Connector
 
 
