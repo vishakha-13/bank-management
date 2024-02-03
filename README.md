@@ -8,8 +8,12 @@ This system is designed for bank staff to manage customer records securely. Only
 Requirements:
 
 Python (latest version)
+
 Visual Studio Code or any preferred text editor
+
 MySQL
+
+
 Python MySQL Connector
 
 
